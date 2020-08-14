@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋,           
+I'm Nivaldo Georg Junior, self taught developer with a strong finance and economics background. I am a tech and management enthusiast. Would love to be a product manager someday! I'm focusing my efforts on Python and futurely Blockchain!
 
-<!--
-**ngeorgj/ngeorgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I Would love to be part of a tech innovation startup!
 
-Here are some ideas to get you started:
+## 🧐 About
+- 🏄‍ Community guy who loves being involved in communities and help others
+- 😄 I'm very opened to ideas, I like to get something and start as soon as possible to prototype it!
+- 🌱 I'm always trying to get better in my code, reusability and the technologies used!
+- 👯 And Many More...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello World!! 🤔
+- 💬 Ask me about Python and Flask
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/+5547996235834)
+- ⚡ Fun fact: I love colorful sunsets!
+- 💬 Ping Me about #Python, #Flask, #StartupDev, and that's it! :D 
+---
