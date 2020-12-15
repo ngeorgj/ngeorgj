@@ -1,5 +1,5 @@
 ## Backend Developer           
-I'm Nivaldo Georg Junior, self taught developer with a strong finance and economics background. I am a tech and management enthusiast. Would love to be a product manager someday! I'm focusing my efforts on Python and futurely leading to Blockchain!
+Hi!, I'm a self taught developer with a strong finance and economics background. I am a tech and management enthusiast. Would love to be a product manager someday! I'm focusing my efforts on Python and futurely leading to Blockchain!
 
 I Would love to be part of a tech innovative startup!
 
