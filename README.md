@@ -3,8 +3,7 @@ Hi!
 
 I'm a self taught developer with a strong finance and economics background. I am a tech and management enthusiast. Would love to be a product manager someday! I'm focusing my efforts on Python and futurely leading to Blockchain!
 
-Actually working as Software Consultant on Atlassian Products at *E-Core*.
-
+Actually working as Technical Engineer on Atlassian Products at *CPrime*
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in groups and to help others!
