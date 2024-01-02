@@ -1,16 +1,17 @@
-## Software Consultant & Senior Python Developer           
-Hi!
+🚀 Software Consultant & Senior Python Developer
 
-I'm a self taught developer with a strong finance and economics background. I am a tech and management enthusiast. Would love to be a product manager someday! I'm focusing my efforts on Python and automated trading. I have a very solid knowledge on Jira/Confluence Integrations, everything around the Atlassian Ecosystem.
+Hello there! 👋
 
-Actually working as Technical Migrations Engineer on Atlassian Products at *CPrime*. Focused on 3rd Party and Script Remediations.
+I'm a passionate, self-taught developer combining a strong background in finance and economics with a fervent interest in technology and management. Driven by a lifelong learning mindset, I'm on a path to evolve into a product management role. My current focus? Mastering Python and revolutionizing automated trading.
 
-## 🧐 About
-- 🏄‍ Community guy who loves being involved in groups and to help others!
-- 🌱 I'm always trying to get better in my code, in reusability and the technologies used!
+With a deep understanding of Jira/Confluence integrations and the Atlassian Ecosystem, I currently excel as a Technical Migrations Engineer for Atlassian Products at CPrime. My expertise shines in 3rd Party and Script Remediations, ensuring seamless tech transitions.
 
-# Information 🤔
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/+5547996235834) or email -> ngj.netrunner@gmail.com
-- 💬 Ping Me about #Python, #Flask, #Django, #StartupDev, and that's it! :D 
+A Bit More About Me
 
+    🏄‍♂️ I’m a community enthusiast, always eager to engage, contribute, and support tech groups.
+    🌱 My coding journey is an endless quest for improvement - striving for cleaner, more reusable code and staying abreast of cutting-edge technologies.
+    💼 I'm the proud creator of the Atlassian Marketplace App "Easy for Jira," a tool that seamlessly integrates Python into your Jira instance, simplifying and enhancing your workflow.
+
+Languages
 ![Languages of Choice](https://github-readme-stats.vercel.app/api/top-langs/?username=ngeorgj&layout=compact&theme=dracula)
+
